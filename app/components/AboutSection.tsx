@@ -10,7 +10,8 @@ const TAB_DATA = [
       <ul className="list-disc pl-2 grid grid-cols-4 gap-4">
         <li>HTML</li>
         <li>C++</li>
-        <li>Git</li>
+        <li>git</li>
+        <li>Expert Napper</li>
       </ul>
       
     ),
@@ -30,7 +31,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Add Later</li>
+        <li>Texas Food Handling</li>
+        <li>TABC</li>
       </ul>
     ),
   },

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lamg="en>
+    <head>
+        <meta charset=" UTF-8">
+<meta name="viewport" content="width=device=width, initial-scale=1.0">
+<title>ALEXIS DUARTE HTML About Me</title>
+<style>
+    body {
+        background:pink ;
+    }
+</style>
+</head>
+
+<body text="white">
+    <h1>WELCOME TO MY WEB PAGE! SCROLL TO LEARN MORE ABOUT ME! :DARN MORE ABOUT ME! :D</h1>
+    <H2>About Me: </H2>
+    <H3>Hello and welcome! My name is Alexis Duarte and I am a 21 year old college student attending The University of
+        Texas Rio Grande valley. My major is computer science, and the resaon for this
+        particualr major is simply to try something new. My previous major of psychology became uninteresting to me at
+        some point, leading me to look for other options. Computer science specifically
+        caught my attention because I remember taking a computer science course in high school, and I really enjoyed it.
+        And now I am here, creating my own html page! Continue to scroll to learn some facts about me!
+    </H3>
+
+    <h2>My Favorite Colors Are: </h2>
+    <ul>
+        <h3>
+            <li>Pastel Pink </li>
+        </h3>
+        <h3>
+            <li>Sky Blue</li>
+        </h3>
+        <h3>
+            <li>Black</li>
+        </h3>
+    </ul>
+
+    <img src="pastelpink.webp" alt="hello" style="width:400px;"> <img src="skyblu.jpg" alt="hello" style="width:400px;">
+    <img src="blac.jpg" alt="hello" style="width:350px;">
+
+    <h2>My Top 3 Movies Are: </h2>
+    <ol>
+        <h3>
+            <li>Coraline</li>
+        </h3>
+        <h3>
+            <li>The Conjuring</li>
+        </h3>
+        <h3>
+            <li>Shrek</li>
+        </h3>
+    </ol>
+
+    <img src="Halloween-List-Coraline-Everett-MCDCORA_EC001-H-2022.webp" alt="hello" style="width:700px;"> <img
+        src="images.jfif" alt="hello" style="width:300px;"> <img src="shrek_the_whole_story.webp" alt="hello"
+        style="width:275px;">
+
+
+    <H2>My Favorite Foods Are:</H2>
+    <table border="1">
+        <tr>
+            <th>Restuarants:</th>
+            <th>Fast Foods:</th>
+            <th>Sweet Treats:</th>
+
+        </tr>
+        <tr>
+            <td>Kumori</td>
+            <td>Chik-fil-a</td>
+            <td>Life Savor Gummies</td>
+
+        </tr>
+        <tr>
+            <td>Olive Garden</td>
+            <td>Wing Stop</td>
+            <td>Rice krispies Treats</td>
+
+        </tr>
+        <tr>
+            <td>Chili's</td>
+            <td>Canes</td>
+            <td>Reese's Peanut Butter Cups</td>
+
+        </tr>
+    </table><br>
+
+    <img src="Date-Night-Pack.jpg" alt="hello" style="width: 400px;"> <img src="canes.avif" alt="hello" style="width:480px;"> <img src="Red-Playful-Logo-Candy.png" alt="hello" style="width:320px;"><img src="gummies.webp" alt="hello" style="width:320px;">
+
+    <h2>My Family:</h2>
+    <h3>In my family, I have one older brother and one younger sister, making me the middle child of my family. My
+        brother, sister, mother and I were all born on the west coast, in California.
+        So we all share the experience of living a breezey life next to the ocean, which we bond over sometimes. My dad,
+        however, was born and raised in McAllen, Tx. His connection to the RGV is the
+        reason why I am where I am today, which I am so grateful for!
+    </h3>
+
+    <img src="ocean.png" alt="hello" style="width:400px;"><img src="oceanside.png" alt="hello" style="width:404.5px;"><img src="oceeanside.jpg" alt="hello" style="width:704.8px;">
+
+    <h2>Meet My Bestie!</h2>
+
+    <img src="chloe.png" alt="hello" style="width:320px;"><img src="chloeee.png" alt="hello" style="width:414px;"><img
+        src="chloeeeee.png" alt="hello" style="width:312px;"><img src="chloeeee.png" alt="hello" style="width:625px;">
+
+        <h3>Click <a href="https://www.imdb.com/title/tt1327801/" target="_blank"> here</a> to discover my secret gulity pleasure show!</h3> 
+
+        <img src="face-with-hand-over-mouth.webp" alt="hello" style="width:400px;">
+        
+        <h3>Pay tribute to<a href="https://www.youtube.com/watch?v=PJYpZ4hkXJE" target="_blank"> Liam Payne</a> of One Direction. R.I.P. </h2>
+        <img src="oned.jpg" alt="hello" style="width:400px;">
+
+        <h2>Thank you! Come back for more updates!!</h2>
+            
+
+    </body>
+</html>

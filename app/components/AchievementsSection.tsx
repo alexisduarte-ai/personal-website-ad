@@ -11,22 +11,23 @@ const AnimatedNumbers = dynamic(
 
 const achievementsList = [
   {
-    metric: "Projects",
+    metric: "K-Dramas Watched",
     value: "20",
     postfix: "+",
   },
   {
     prefix: "~",
-    metric: "Users",
+    metric: "Websites Created",
+    value: "2",
+  },
+  {
+    metric: "Future Awards",
     value: "50",
+    postfix: "+",
   },
   {
-    metric: "Awards",
-    value: "7",
-  },
-  {
-    metric: "Years",
-    value: "5",
+    metric: "Years of CSCI Experiece",
+    value: "1",
   },
 ];
 
